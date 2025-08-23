@@ -1,4 +1,4 @@
-````markdown
+
 # 🗳️ Polls API
 
 Uma API RESTful para criação e gerenciamento de enquetes, com suporte a votos, visibilidade restrita, datas de expiração e autenticação de usuários.
